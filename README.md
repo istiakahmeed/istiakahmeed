@@ -124,15 +124,17 @@
         />
       </a>
       <a href="https://www.blender.org/" target="_blank" rel="no-referrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-          alt="postman"
+        <img 
+          src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+          alt="blender"
           width="40"
           height="40"
         />
       </a>
       <a href="https://www.getpostman.com/" target="_blank" rel="no-referrer">
-      <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg"
-          alt="blender"
+      <img 
+          src="https://worldvectorlogo.com/logo/postman.svg"
+          alt="postman"
           width="40"
           height="40"
         />
