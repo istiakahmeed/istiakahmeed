@@ -125,8 +125,8 @@
       </a>
       <a href="https://www.blender.org/" target="_blank" rel="no-referrer">
         <img
-           <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg">
-          alt="blender"
+           <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg"
+          alt="postman"
           width="40"
           height="40"
         />
