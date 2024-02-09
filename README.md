@@ -133,7 +133,7 @@
       </a>
       <a href="https://www.getpostman.com/" target="_blank" rel="no-referrer">
       <img 
-          src="https://worldvectorlogo.com/logo/postman.svg"
+          src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
           alt="postman"
           width="40"
           height="40"
