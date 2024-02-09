@@ -125,12 +125,20 @@
       </a>
       <a href="https://www.blender.org/" target="_blank" rel="no-referrer">
         <img
-          src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+           <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg">
           alt="blender"
           width="40"
           height="40"
         />
       </a>
+      <a href="https://www.getpostman.com/" target="_blank" rel="no-referrer">
+      <img
+          src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+          alt="blender"
+          width="40"
+          height="40"
+        />
+     </a>
     </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minal-ahmed&show_icons=true&locale=en&layout=compact" alt="minal-ahmed" /></p>
