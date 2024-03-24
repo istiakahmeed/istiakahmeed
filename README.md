@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Istiak Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minal-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="minal-ahmed" /> </p>
 
