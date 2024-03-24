@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **minalahmed6219@gmail.com**
+- 📫 How to reach me **istiakahmed6219@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😂😁**
 
