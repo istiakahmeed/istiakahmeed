@@ -142,6 +142,6 @@
      </a>
     </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minal-ahmed&show_icons=true&locale=en&layout=compact" alt="minal-ahmed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakahmeed&show_icons=true&locale=en&layout=compact" alt="istiakahmeed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minal-ahmed&show_icons=true&locale=en" alt="minal-ahmed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istiakahmeed&show_icons=true&locale=en" alt="istiakahmeed" /></p>
