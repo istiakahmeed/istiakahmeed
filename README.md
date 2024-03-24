@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Istiak Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minal-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="minal-ahmed" /> </p>
+
 
 - 🌱 I’m currently learning **React.js , Next.js**
 
@@ -12,6 +12,8 @@
 - 📫 How to reach me **istiakahmed6219@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😂😁**
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=minal-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahmmed" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
