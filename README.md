@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **istiakahmed6219@gmail.com**
 
-- ⚡ Fun fact **I think I am funny😂😁**
+- ⚡ Fun fact **I think I am funny😂😁😇**
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=minal-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahmmed" /> </p>
 
