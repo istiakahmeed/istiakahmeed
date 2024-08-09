@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js , Next.js**
 
-- 👨‍💻 All of my projects are available at [https://istiakahmed.vercel.app](https://istiakahmed.vercel.app)
+- 👨‍💻 All of my projects are available at [https://istiak-ahmed.com](https://istiak-ahmed.com)
 
 - 💬 Ask me about **Frontend Development**
 
