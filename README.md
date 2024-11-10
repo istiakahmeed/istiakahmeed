@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js , Next.js**
+- 🌱 I’m currently learning **Advance Backend , Web-3**
 
 - 👨‍💻 All of my projects are available at [https://istiak-ahmed.com](https://istiak-ahmed.com)
 
