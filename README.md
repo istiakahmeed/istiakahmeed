@@ -41,6 +41,6 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakahmeed&layout=compact&theme=transparent" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakahmeed&layout=compact&theme=transparent" alt="Top Languages" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=istiakahmeed&show_icons=true&theme=transparent" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istiakahmeed&show_icons=true&theme=transparent" alt="GitHub Stats" /></p>
