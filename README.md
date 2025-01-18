@@ -53,8 +53,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakahmeed&layout=compact&theme=transparent" alt="Top Languages" />
   
+  <br>
+  <br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=istiakahmeed&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </div>
+
 
 ---
 
