@@ -51,9 +51,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakahmeed&layout=compact&theme=transparent" alt="Top Languages" style="margin-right: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakahmeed&layout=compact&theme=transparent" alt="Top Languages" style="margin-right: 20px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=istiakahmeed&show_icons=true&theme=transparent" alt="GitHub Stats" style="margin-left: 20px;" />
+   <img src="https://github-readme-stats.vercel.app/api?username=istiakahmeed&show_icons=true&theme=transparent" alt="GitHub Stats" style="margin-left: 20px;" />
 </div>
 
 
