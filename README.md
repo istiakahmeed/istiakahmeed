@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I am funny😁😇**
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=minal-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahmmed" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=minal-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahmmed" /> </p>
 
 
 <p align="left">
@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-### 🛠️ Skills & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
