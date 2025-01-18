@@ -18,7 +18,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.facebook.com/minalislam.khondrokar" target="_blank">
+  <a href="https://www.facebook.com/istiak.minal" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/istiak.minal" target="_blank">
@@ -51,8 +51,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=istiakahmeed&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakahmeed&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=istiakahmeed&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </div>
 
 ---
